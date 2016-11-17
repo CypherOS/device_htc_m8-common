@@ -34,7 +34,7 @@ PRODUCT_COPY_FILES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.msm8974 \
-    Snap
+    Camero
 
 # Filesystem management tools
 PRODUCT_PACKAGES += \
