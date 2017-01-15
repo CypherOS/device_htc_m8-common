@@ -3,18 +3,18 @@
     "repository":  "device_htc_msm8974-common",
     "target_path": "device/htc/msm8974-common",
     "remote":      "aoscp",
-    "branch":      "n7.1"
+    "branch":      "nougat-mr1"
   },
   {
     "repository":  "proprietary_vendor_htc",
     "target_path": "vendor/htc",
     "remote":      "aoscp",
-    "branch":      "n7.1"
+    "branch":      "nougat-mr1"
   },
   {
     "repository":  "proprietary_vendor_qcom_binaries",
     "target_path": "vendor/qcom/binaries",
     "remote":      "aoscp",
-    "branch":      "n7.1"
+    "branch":      "nougat-mr1"
   }
 ]
