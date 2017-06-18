@@ -33,8 +33,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    camera.msm8974 \
-    Camero
+    camera.msm8974
 
 # Filesystem management tools
 PRODUCT_PACKAGES += \
